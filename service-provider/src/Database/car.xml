@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Autodaten>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>04.05.2006</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>3333</Herstellerschluesselnummer>
+            <Typschluesselnummer>ABC000259</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AB</ArtdesAufbaus>
+            <Marke>RENAULT</Marke>
+            <TypVarianteVersion>B-BB1K-BB1KEF</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>RENAULT (F)</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Schräghecklimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>70/220*2003/76B/EG</Schadstoffklasse>
+            <Emmissionsklasse>Euro 4</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>22.05.2014</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>0603</Herstellerschluesselnummer>
+            <Typschluesselnummer>BNS000187</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AB</ArtdesAufbaus>
+            <Marke>VW</Marke>
+            <TypVarianteVersion>6R-ABCHYB-FM5FM5CF008N2VR27MM</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>Volkswagen-VW</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Schräghecklimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>715/2007*136/2014W</Schadstoffklasse>
+            <Emmissionsklasse>Euro 6</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>21.03.2008</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>0603</Herstellerschluesselnummer>
+            <Typschluesselnummer>ALD000278</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AC</ArtdesAufbaus>
+            <Marke>VW</Marke>
+            <TypVarianteVersion>1KM-ACBLSX0-FM5FM5A4009N7GGN1</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>Volkswagen-VW</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Kombilimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>70/220/EWG*2006/96B/EG</Schadstoffklasse>
+            <Emmissionsklasse>Euro 4</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Diesel</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>27.06.2014</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>0035</Herstellerschluesselnummer>
+            <Typschluesselnummer>ALL095047</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AF</ArtdesAufbaus>
+            <Marke>Opel</Marke>
+            <TypVarianteVersion>S-D-PR11-1AADB9Y0MKG5</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>Opel</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Mehrzweckfahrzeug</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>715/2007*459/2012J</Schadstoffklasse>
+            <Emmissionsklasse>Euro 5</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>07.03.2019</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>8004</Herstellerschluesselnummer>
+            <Typschluesselnummer>ASQ001751</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AC</ArtdesAufbaus>
+            <Marke>Skoda</Marke>
+            <TypVarianteVersion>NU-ACDFFAX1-NAM6NAM62Q0017CP164N1C7A</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>Skoda (CZ)</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Kombilimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>715/2007*2017/1347AG</Schadstoffklasse>
+            <Emmissionsklasse>Euro 6</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Diesel</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>27.09.2016</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>7593</Herstellerschluesselnummer>
+            <Typschluesselnummer>AKQ000172</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AF</ArtdesAufbaus>
+            <Marke>Seat</Marke>
+            <TypVarianteVersion>6J-SCCHZC-FM6SFM6DQ0017MM62</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>Seat (E)</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Mehrzweckfahrzeug</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>715/2007*136/2014W</Schadstoffklasse>
+            <Emmissionsklasse>Euro 6</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>30.01.2012</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>3333</Herstellerschluesselnummer>
+            <Typschluesselnummer>AYS000438</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AB</ArtdesAufbaus>
+            <Marke>RENAULT</Marke>
+            <TypVarianteVersion>R-BRC-4-BRC40H</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>RENAULT (F)</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Schräghecklimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>715/2007*692/2008A/EG</Schadstoffklasse>
+            <Emmissionsklasse>Euro 5</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>19.11.2008</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>0588</Herstellerschluesselnummer>
+            <Typschluesselnummer>AHW00027 4</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AC</ArtdesAufbaus>
+            <Marke>Audi</Marke>
+            <TypVarianteVersion>8P-ACAXCF1-FM6AJ008R8P00GG</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>Audi</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Mehrzweckfahrzeug</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>70/220/EWG*2006/96B/EG</Schadstoffklasse>
+            <Emmissionsklasse>Euro 4</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>19.02.2009</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>3333</Herstellerschluesselnummer>
+            <Typschluesselnummer>AHJ000431</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AC</ArtdesAufbaus>
+            <Marke>RENAULT</Marke>
+            <TypVarianteVersion>M-KM1R-KM1R0H</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>RENAULT (F)</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Kombilimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>70/220*2003/76B/EG</Schadstoffklasse>
+            <Emmissionsklasse>Euro 4</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>31.01.2020</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>3333</Herstellerschluesselnummer>
+            <Typschluesselnummer>AHJ000431</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AC</ArtdesAufbaus>
+            <Marke>LAMBO</Marke>
+            <TypVarianteVersion>M-KM1R-LAMBO</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>Lamborghini</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl./Kombilimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>70/220*2003/76B/EG</Schadstoffklasse>
+            <Emmissionsklasse>Euro 5</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+    <Auto>
+        <Zulassungsbescheinigung>
+            <DatumDerErstzulassung>22.12.2008</DatumDerErstzulassung>
+            <Herstellerschluesselnummer>0603</Herstellerschluesselnummer>
+            <Typschluesselnummer>AMK000375</Typschluesselnummer>
+            <Fahrzeugklasse>M1</Fahrzeugklasse>
+            <ArtdesAufbaus>AC</ArtdesAufbaus>
+            <Marke>VW</Marke>
+            <TypVarianteVersion>1K-ACCAXAX0-FM6FM6AJ008N7MGN1</TypVarianteVersion>
+            <HerstellerKurzbezeichnung>VOLKSWAGEN-VW</HerstellerKurzbezeichnung>
+            <BezeichnungFahrzuegklasseAufbau>Fz.z.Pers.bef.b. 8 Spl.-Kombilimousine</BezeichnungFahrzuegklasseAufbau>
+            <Schadstoffklasse>715-2007*692-2008A</Schadstoffklasse>
+            <Emmissionsklasse>Euro 5</Emmissionsklasse>
+            <KraftstoffartEnergiequelle>Benzin</KraftstoffartEnergiequelle>
+        </Zulassungsbescheinigung>
+    </Auto>
+</Autodaten>
