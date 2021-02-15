@@ -19,38 +19,8 @@
                                         <xsd:element name="Hersteller-Kurzbezeichnung" type="xsd:string"/>
                                         <xsd:element name="Bezeichnung-Fahrzuegklasse-Aufbau" type="xsd:string"/>
                                         <xsd:element name="Schadstoffklasse" type="xsd:string"/>
-                                        <xsd:element name="Emmissionsklasse" type="xsd:string"/>
+                                        <xsd:element name="Emissionsklasse" type="xsd:string"/>
                                         <xsd:element name="Kraftstoffart-Energiequelle" type="xsd:string"/>
-                                    </xsd:sequence>
-                                </xsd:complexType>
-                            </xsd:element>
-                            <xsd:element name="Emissionsdaten">
-                                <xsd:complexType>
-                                    <xsd:sequence>
-                                        <xsd:element name="NEFZ">
-                                            <xsd:complexType>
-                                                <xsd:sequence>
-                                                    <xsd:element name="Hersteller-Kurzbezeichnung" type="xsd:string"/>
-                                                    <xsd:element name="VerbrauchInnerorts" type="xsd:double"/>
-                                                    <xsd:element name="VerbrauchAußerorts" type="xsd:double"/>
-                                                    <xsd:element name="VerbrauchKombiniert" type="xsd:double"/>
-                                                    <xsd:element name="CO2-EmissionKombiniert" type="xsd:double"/>
-                                                </xsd:sequence>
-                                                <xsd:attribute name="id" type="xsd:ID"/>
-                                            </xsd:complexType>
-                                        </xsd:element>
-                                        <xsd:element name="WLTP">
-                                            <xsd:complexType>
-                                                <xsd:sequence>
-                                                    <xsd:element name="Hersteller-Kurzbezeichnung" type="xsd:string"/>
-                                                    <xsd:element name="SehrSchnell" type="xsd:double"/>
-                                                    <xsd:element name="Schnell" type="xsd:double"/>
-                                                    <xsd:element name="Langsam" type="xsd:double"/>
-                                                    <xsd:element name="CO2-EmissionKombiniert" type="xsd:double"/>
-                                                </xsd:sequence>
-                                                <xsd:attribute name="id" type="xsd:ID"/>
-                                            </xsd:complexType>
-                                        </xsd:element>
                                     </xsd:sequence>
                                 </xsd:complexType>
                             </xsd:element>

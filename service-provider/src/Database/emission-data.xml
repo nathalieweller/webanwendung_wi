@@ -1,179 +1,179 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Emissions-Set>
-    <Emmissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>B-BB1K-BB1KEF</TypVarianteVersion>
         <HerstellerKurzbezeichnung>RENAULT (F)</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>7,3</VerbrauchInnerorts>
             <VerbrauchAußerorts>4,8</VerbrauchAußerorts>
             <VerbrauchKombiniert>5,7</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>114</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>114</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>7,5</SehrSchnell>
             <Schnell>4,8</Schnell>
             <Langsam>6,1</Langsam>
-            <CO2EmmissionenKombiniert>116</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>116</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>6R-ABCHYB-FM5FM5CF008N2VR27MM</TypVarianteVersion>
         <HerstellerKurzbezeichnung>Volkswagen-VW</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>6,5</VerbrauchInnerorts>
             <VerbrauchAußerorts>5,0</VerbrauchAußerorts>
             <VerbrauchKombiniert>5,6</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>110</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>110</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>6,8</SehrSchnell>
             <Schnell>5,2</Schnell>
             <Langsam>5,5</Langsam>
-            <CO2EmmissionenKombiniert>112</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>112</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>1KM-ACBLSX0-FM5FM5A4009N7GGN1</TypVarianteVersion>
         <HerstellerKurzbezeichnung>Volkswagen-VW</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>6,8</VerbrauchInnerorts>
             <VerbrauchAußerorts>5,2</VerbrauchAußerorts>
             <VerbrauchKombiniert>5,7</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>112</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>112</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>7,0</SehrSchnell>
             <Schnell>5,6</Schnell>
             <Langsam>6,1</Langsam>
-            <CO2EmmissionenKombiniert>115</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>115</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>S-D-PR11-1AADB9Y0MKG5</TypVarianteVersion>
         <HerstellerKurzbezeichnung>Opel</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>7,1</VerbrauchInnerorts>
             <VerbrauchAußerorts>5,4</VerbrauchAußerorts>
             <VerbrauchKombiniert>6,5</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>120</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>120</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>7,5</SehrSchnell>
             <Schnell>5,8</Schnell>
             <Langsam>6,9</Langsam>
-            <CO2EmmissionenKombiniert>125</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>125</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>NU-ACDFFAX1-NAM6NAM62Q0017CP164N1C7A</TypVarianteVersion>
         <HerstellerKurzbezeichnung>Skoda (CZ)</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>6,5</VerbrauchInnerorts>
             <VerbrauchAußerorts>4,3</VerbrauchAußerorts>
             <VerbrauchKombiniert>5,7</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>116</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>116</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>6,7</SehrSchnell>
             <Schnell>4,5</Schnell>
             <Langsam>5,9</Langsam>
-            <CO2EmmissionenKombiniert>118</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>118</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>6J-SCCHZC-FM6SFM6DQ0017MM62</TypVarianteVersion>
         <HerstellerKurzbezeichnung>Seat (E)</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>7,3</VerbrauchInnerorts>
             <VerbrauchAußerorts>4,3</VerbrauchAußerorts>
             <VerbrauchKombiniert>6,0</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>118</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>118</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>7,5</SehrSchnell>
             <Schnell>4,5</Schnell>
             <Langsam>6,8</Langsam>
-            <CO2EmmissionenKombiniert>119</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>119</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>R-BRC-4-BRC40H</TypVarianteVersion>
         <HerstellerKurzbezeichnung>RENAULT (F)</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>6,2</VerbrauchInnerorts>
             <VerbrauchAußerorts>4,3</VerbrauchAußerorts>
             <VerbrauchKombiniert>5,0</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>114</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>114</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>6,5</SehrSchnell>
             <Schnell>4,6</Schnell>
             <Langsam>5,3</Langsam>
-            <CO2EmmissionenKombiniert>115</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>115</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>8P-ACAXCF1-FM6AJ008R8P00GG</TypVarianteVersion>
         <HerstellerKurzbezeichnung>Audi</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>7,5</VerbrauchInnerorts>
             <VerbrauchAußerorts>5,5</VerbrauchAußerorts>
             <VerbrauchKombiniert>6,5</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>120</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>120</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>8,9</SehrSchnell>
             <Schnell>5,9</Schnell>
             <Langsam>6,6</Langsam>
-            <CO2EmmissionenKombiniert>123</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>123</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>M-KM1R-KM1R0H</TypVarianteVersion>
         <HerstellerKurzbezeichnung>RENAULT (F)</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>6,0</VerbrauchInnerorts>
             <VerbrauchAußerorts>4,1</VerbrauchAußerorts>
             <VerbrauchKombiniert>4,8</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>111</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>111</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>6,2</SehrSchnell>
             <Schnell>4,3</Schnell>
             <Langsam>5,0</Langsam>
-            <CO2EmmissionenKombiniert>113</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>113</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>M-KM1R-LAMBO</TypVarianteVersion>
         <HerstellerKurzbezeichnung>Lamborghini</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>22,2</VerbrauchInnerorts>
             <VerbrauchAußerorts>16,9</VerbrauchAußerorts>
             <VerbrauchKombiniert>20,3</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>312</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>312</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>25,1</SehrSchnell>
             <Schnell>23,8</Schnell>
             <Langsam>18,9</Langsam>
-            <CO2EmmissionenKombiniert>310</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>310</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
-    <Emmissionsdaten>
+    </Emissionsdaten>
+    <Emissionsdaten>
         <TypVarianteVersion>1K-ACCAXAX0-FM6FM6AJ008N7MGN1</TypVarianteVersion>
         <HerstellerKurzbezeichnung>VOLKSWAGEN-VW</HerstellerKurzbezeichnung>
         <NEFZ>
             <VerbrauchInnerorts>5,3</VerbrauchInnerorts>
             <VerbrauchAußerorts>7,1</VerbrauchAußerorts>
             <VerbrauchKombiniert>6,8</VerbrauchKombiniert>
-            <CO2EmmissionenKombiniert>114</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>114</CO2EmissionenKombiniert>
         </NEFZ>
         <WLTP>
             <SehrSchnell>5,5</SehrSchnell>
             <Schnell>7,6</Schnell>
             <Langsam>6,5</Langsam>
-            <CO2EmmissionenKombiniert>116</CO2EmmissionenKombiniert>
+            <CO2EmissionenKombiniert>116</CO2EmissionenKombiniert>
         </WLTP>
-    </Emmissionsdaten>
+    </Emissionsdaten>
 </Emissions-Set>

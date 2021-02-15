@@ -32,7 +32,7 @@
                 <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Emmissionsdaten</a>
+                <a class="nav-link" href="emission.php">Emissionsdaten</a>
               </li>
             </ul>
           </div>
@@ -86,8 +86,8 @@
           <label for="schadstoffklasse">Schadstoffklasse</label>
         </div>
         <div class="form-floating mb-3">
-          <input type="text" class="form-control" id="emmissionsklasse" value="" name="Emmissionsklasse">
-          <label for="emmissionsklasse">Emmissionsklasse</label>
+          <input type="text" class="form-control" id="emissionsklasse" value="" name="Emissionsklasse">
+          <label for="emissionsklasse">Emissionsklasse</label>
         </div>
         <div class="form-floating mb-3">
           <input type="text" class="form-control" id="kraftstoffart" value="" name="KraftstoffartEnergiequelle">

@@ -51,7 +51,7 @@ function getEmission() {
                     id: id
                 },
                 success: function(resp) {
-                    // Bei Erfolgreicher Abfrage der Daten wird die Funktion createDetailedCarTile ausgeführt
+                    // Bei Erfolgreicher Abfrage der Daten wird die Funktion createDetailedEmissionTile ausgeführt
                     createDetailedEmissionTile(resp);
                 }
             })
@@ -65,8 +65,8 @@ function getEmission() {
 }
 
 /**
- * Erstellt ein Emmissions-Element 
- * @param {string} resp Emmissionsdaten in JSON Format
+ * Erstellt ein Emissions-Element 
+ * @param {string} resp Emissionsdaten in JSON Format
  */
 function createDetailedEmissionTile(resp) {
     // Übergebenen String in JSON parsen
@@ -76,11 +76,11 @@ function createDetailedEmissionTile(resp) {
     document.getElementById('vi').value = obj.NEFZ.VerbrauchInnerorts;
     document.getElementById('va').value = obj.NEFZ.VerbrauchAußerorts;
     document.getElementById('vk').value = obj.NEFZ.VerbrauchKombiniert;
-    document.getElementById('nefz_co').value = obj.NEFZ.CO2EmmissionenKombiniert;
+    document.getElementById('nefz_co').value = obj.NEFZ.CO2EmissionenKombiniert;
     document.getElementById('sehrschnell').value = obj.WLTP.SehrSchnell;
     document.getElementById('schnell').value = obj.WLTP.Schnell;
     document.getElementById('langsam').value = obj.WLTP.Langsam;
-    document.getElementById('wltp_co').value = obj.WLTP.CO2EmmissionenKombiniert;
+    document.getElementById('wltp_co').value = obj.WLTP.CO2EmissionenKombiniert;
 
 }
 
@@ -102,7 +102,7 @@ function createDetailedCarTile(resp) {
     document.getElementById("hersteller").value = obj.HerstellerKurzbezeichnung;
     document.getElementById("bezeichnung").value = obj.BezeichnungFahrzuegklasseAufbau;
     document.getElementById("schadstoffklasse").value = obj.Schadstoffklasse;
-    document.getElementById("emmissionsklasse").value = obj.Emmissionsklasse;
+    document.getElementById("emissionsklasse").value = obj.Emissionsklasse;
     document.getElementById("kraftstoffart").value = obj.KraftstoffartEnergiequelle;
 
 }
@@ -146,8 +146,8 @@ function createCarTile(param) {
 
     // Setze class a2 auf btn
     a2.className = "btn btn-primary";
-    // Setze den Inhalt von a2 auf Emmissionen
-    a2.innerHTML = "Emmissionen";
+    // Setze den Inhalt von a2 auf Emissionen
+    a2.innerHTML = "Emissionen";
     // Erstelle Link auf emissions.php mit Parameter ID = TypVarianteVersion
     a2.href = "/public/emissions.php?id=" + param.Zulassungsbescheinigung.TypVarianteVersion;
 
@@ -245,7 +245,7 @@ function getAllEmissions() {
 }
 
 function getBy() {
-
+    // Lies Formulardaten mithilfe von JQuery ($) aus
     let params = JSON.stringify($('form').serialize());
     // Festlegung welche Art von Request
     $.ajax({
@@ -297,11 +297,11 @@ function createEmission(data) {
         td3.innerText = element.NEFZ['VerbrauchInnerorts'];
         td4.innerText = element.NEFZ['VerbrauchAußerorts'];
         td5.innerText = element.NEFZ['VerbrauchKombiniert'];
-        td6.innerText = element.NEFZ['CO2EmmissionenKombiniert'];
+        td6.innerText = element.NEFZ['CO2EmissionenKombiniert'];
         td7.innerText = element.WLTP['SehrSchnell'];
         td8.innerText = element.WLTP['Schnell'];
         td9.innerText = element.WLTP['Langsam'];
-        td10.innerText = element.WLTP['CO2EmmissionenKombiniert'];
+        td10.innerText = element.WLTP['CO2EmissionenKombiniert'];
 
         // Füge Elemente td1, td2, td3, td4, td5, td6, td7, td8, td9, td10 an tr an
         tr.appendChild(td1);

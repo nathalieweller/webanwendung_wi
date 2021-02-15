@@ -42,7 +42,7 @@ $brands = array(
                 <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="emission.php">Emmissionsdaten</a>
+                <a class="nav-link" href="emission.php">Emissionsdaten</a>
               </li>
             </ul>
           </div>

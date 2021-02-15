@@ -8,7 +8,7 @@ $_SESSION['id'] = $_GET['id'];
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Autowebsite - Emmissionen - Detailansicht</title>
+    <title>Autowebsite - Emissionen - Detailansicht</title>
     <!-- jQuery Bibliothek einbinden -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Eigene JS Datei einlesen -->
@@ -32,7 +32,7 @@ $_SESSION['id'] = $_GET['id'];
                 <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="emission.php">Emmissionsdaten</a>
+                <a class="nav-link" href="emission.php">Emissionsdaten</a>
               </li>
             </ul>
           </div>
@@ -46,7 +46,7 @@ $_SESSION['id'] = $_GET['id'];
     <!-- Bootstrap Unterteilung in 3 Spalten -->
       <div class="col-md-3"></div>
       <div class="col-md-6">
-          <h1>Emmissionsdaten </h1>
+          <h1>Emissionsdaten </h1>
           <!-- Setze Überschrift anhand der ID in $_SESSION -->
           <h1>Typ: <?= $_SESSION['id']; ?></h1>
             <h3>NEFZ</h3>
@@ -65,7 +65,7 @@ $_SESSION['id'] = $_GET['id'];
             </div>
             <div class="form-floating mb-3">
               <input type="text" class="form-control" id="nefz_co" value="" name="nefz_co">
-              <label for="nefz_co">CO2 Emmissionen Kombiniert</label>
+              <label for="nefz_co">CO2 Emissionen Kombiniert</label>
             </div>
             <h3>WLTP</h3>
             <div class="form-floating mb-3">
@@ -82,7 +82,7 @@ $_SESSION['id'] = $_GET['id'];
             </div>
             <div class="form-floating mb-3">
               <input type="text" class="form-control" id="wltp_co" value="" name="wltp_co">
-              <label for="wltp_cp">CO2 Emmissionen Kombiniert</label>
+              <label for="wltp_cp">CO2 Emissionen Kombiniert</label>
             </div>    
           </div>
           <!-- Nochmal eine Spalte um richtiges Layout zu gewährleisten -->

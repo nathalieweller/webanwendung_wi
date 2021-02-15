@@ -48,7 +48,7 @@ if (!empty($dbConnection)) {
     $controllerClass = '\\Src\\Controller\\'.ucfirst($uri[2]).'Controller';
     // Controller wird erzeugt und erzeugt das Objekt mit dem Inhalt der controllerClass 
     $controller = new $controllerClass($dbConnection, $requestMethod, $id, $uri[2]);
-    // Auf die zuvor erzeugte Klasse wird die FUnktion processRequest ausgeführt
+    // Auf die zuvor erzeugte Klasse wird die Funktion processRequest ausgeführt
     $controller->processRequest($post);
 } else {
     echo "DB Connection missing";

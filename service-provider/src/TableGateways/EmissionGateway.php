@@ -19,7 +19,7 @@ class EmissionGateway implements Gateway
         $return_array = array();
         // Geht alle Daten in der Datenbank durch und schreibt diese in das Array rein
         // Wird gemacht, damit man alle Daten aufeinmal zurückgeben kann
-        foreach ($this->db->emissionData->Emmissionsdaten as $item) {
+        foreach ($this->db->emissionData->Emissionsdaten as $item) {
             array_push($return_array, $item);
         }
         // Gibt das Array mit den enthaltenen Daten zurück
@@ -30,7 +30,7 @@ class EmissionGateway implements Gateway
     public function find($id)
     {
         // Gehe alle Daten in der Datenbank durch
-        foreach ($this->db->emissionData->Emmissionsdaten as $item) {
+        foreach ($this->db->emissionData->Emissionsdaten as $item) {
             // Prüfe jedes Element der Datenbank auf Übereinstimmung mit der ID
             if ($item->TypVarianteVersion == $id) {
                 // Wenn die ID mit der TypVarianteVersion übereinstimmt, wird sie für die emissionData zurückgegeben
@@ -47,7 +47,7 @@ class EmissionGateway implements Gateway
         $return_array = array();
         // Geht alle Daten in der Datenbank durch und schreibt diese in das Array rein
         // Wird gemacht, damit man alle Daten aufeinmal zurückgeben kann
-        foreach ($this->db->missionData->Emmissionsdaten as $item) {
+        foreach ($this->db->missionData->Emissionsdaten as $item) {
             // Prüft ob z.B. die Marke als Parameter identisch mit der value ist
             if ($item->Zulassungsbescheinigung->$param == $value) {
                 // Falls der Parameter und das value übereinstimmten, wird dies in das Array geschrieben

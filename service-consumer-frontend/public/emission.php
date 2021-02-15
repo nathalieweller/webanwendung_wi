@@ -7,7 +7,7 @@ session_start();
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Autowebsite - Emmissionen</title>
+    <title>Autowebsite - Emissionen</title>
     <!-- jQuery Bibliothek einbinden -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Eigene JS Datei einlesen -->
@@ -31,7 +31,7 @@ session_start();
                 <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Emmissionsdaten</a>
+                <a class="nav-link" href="#">Emissionsdaten</a>
               </li>
             </ul>
           </div>
@@ -50,11 +50,11 @@ session_start();
                         <th scope="col">Verbrauch Innerorts</th>
                         <th scope="col">Verbrauch Außerorts</th>
                         <th scope="col">Verbrauch Kombiniert</th>
-                        <th scope="col">NEFZ CO2 Emmissionen Kombiniert</th>
+                        <th scope="col">NEFZ CO2 Emissionen Kombiniert</th>
                         <th scope="col">Sehr Schnell</th>
                         <th scope="col">Schnell</th>
                         <th scope="col">Langsam</th>
-                        <th scope="col">WLTP CO2 Emmissionen Kombiniert/th>
+                        <th scope="col">WLTP CO2 Emissionen Kombiniert/th>
                     </tr>
                 </thead>
                 <!-- Tabellenbody mit ID um aus JS darauf zugreifen zu können -->

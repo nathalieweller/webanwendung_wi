@@ -10,7 +10,7 @@ $api = '/rest';
 //Zusammenstellung der URI
 $URI = $prefix.$host.':'.$port.$api.'/emission';
 
-// cURL Abfrage um alle Emmissionen abzufragen
+// cURL Abfrage um alle Emissionen abzufragen
 $ch = curl_init();
 // Benötigte cURL Parameter setzen
 curl_setopt($ch, CURLOPT_URL, $URI);
